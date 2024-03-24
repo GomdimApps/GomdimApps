@@ -5,7 +5,7 @@
  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,py,tailwind,mysql" /> </br>      
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoPedr0Maciel&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats) <br /><br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedr0Maciel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="170" alt="languages graph"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GomdimApps&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="170" alt="languages graph"/>
 
 
 <div align="center">
