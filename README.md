@@ -4,7 +4,7 @@
  
  <img src="https://skillicons.dev/icons?i=go,php,java,js,debian,py,mysql" /> </br>      
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GomdimApps&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats) <br /><br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=GomdimApps&theme=horizon&locale=pt_BR&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats) <br /><br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GomdimApps&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="170" alt="languages graph"/>
 
 
