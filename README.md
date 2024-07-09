@@ -13,7 +13,7 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=react,nextjs,bash,java,ts,js,debian,py" /> 
+ <img src="https://skillicons.dev/icons?i=bash,java,ts,js,debian,py,go,php" /> 
 </div>
 
 
