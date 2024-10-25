@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hello%2C+My+name+is+Isac+Gondim!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left"> I work with Golang, Node.js, Git, Shell and Python. <br> I'm currently studying <strong>Higher Education</strong> and at the moment I'm working at MegaNuv with Cloud Computing automations. </p>
+<p align="left"> I work with Golang, Node.js, Git, Bash.<br> I'm currently studying <strong>Higher Education</strong> and at the moment I'm working at MegaNuv with Cloud Computing automations. </p>
 <p align="left">💌 I'm always open to new contacts and opportunities! Don't hesitate to let me know if you have any questions, suggestions or just want to exchange ideas. I look forward to hearing from you! ⤵️</p>
 
 <h3 align="left">Connect with me!</h3>
@@ -15,11 +15,24 @@
  Brazilian [🇧🇷]
 </p>
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">Language</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=bash,ts,js,debian,redhat,rabbitmq,py,go" /> 
+ <img src="https://skillicons.dev/icons?i=bash,ts,js,go" /> 
 </div>
+
+<h3 align="left">DataBase</h3>
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=postgres,mysql" /> 
+</div>
+
+<h3 align="left">DevOps</h3>
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=docker,kubernetes,redhat,ubuntu,debian,rabbitmq" /> 
+</div>
+
 
 
 <div align="center"><br>
