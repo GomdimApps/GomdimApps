@@ -37,6 +37,9 @@
 
 <div align="center"><br>
 <h3>GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false)
+<br>
  
 <div style={{display: "flex"}}>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomdimApps&layout=compact&theme=dark" />
