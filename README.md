@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hello%2C+My+name+is+Isac+Gondim!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <div style="text-align: justify;">
-  Sou um profissional Júnior em Back-End e DevOps, com foco no aprendizado contínuo e no aprimoramento de habilidades. Utilizo Golang, JS/TS e possuo experiência em Cloud Computing, automação de processos e gestão de ambientes Linux. Tenho conhecimentos práticos em Docker, LXC, KVM e Proxmox, além de experiência como SysAdmin. Comprometido com a homologação de sistemas e geração de resultados positivos.
+  I'm a Junior Back-End and DevOps professional, focused on continuous learning and skill enhancement. I work with Golang, JS/TS and have experience in Cloud Computing, process automation, and Linux environment management. I possess practical knowledge in Docker, LXC, KVM, and Proxmox, as well as experience as a SysAdmin. I'm committed to system validation and delivering positive results.
 </div>
 
 <p align="left">
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=bash,ts,js,go,php" alt="Back-End Skills" /> 
 </div>
 <p style="text-align: justify;">
-  Com foco em ambientes críticos, utilizo Golang para o desenvolvimento de aplicações voltadas para a computação em nuvem. Para aplicações web, emprego PHP ou TypeScript como tecnologias de back-end, dependendo das necessidades do projeto.
+  With a focus on critical environments, I use Golang for developing cloud computing applications. For web applications, I employ PHP or TypeScript as back-end technologies, depending on project requirements.
 </p>
 
 <hr>
@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=nest,prisma,laravel" alt="Framework Skills" /> 
 </div>
 <p style="text-align: justify;">
-  Para desenvolvimento de aplicações robustas e eficientes, utilizo frameworks como NestJS e Prisma em projetos de alta escalabilidade, enquanto Laravel é empregado em soluções voltadas para desenvolvimento web tradicional.
+  For developing robust and efficient applications, I use frameworks like NestJS and Prisma for highly scalable projects, while Laravel is employed for traditional web development solutions.
 </p>
 
 <hr>
@@ -58,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database Skills"/>
 </div>
 <p style="text-align: justify;">
-  Para gerenciamento de dados, utilizo bancos de dados como PostgreSQL, ideal para aplicações de alta performance e complexidade, e MySQL, amplamente utilizado em projetos web devido à sua confiabilidade e simplicidade.
+  For data management, I use databases such as PostgreSQL, ideal for high-performance and complex applications, and MySQL, widely used in web projects due to its reliability and simplicity.
 </p>
 
 <hr>
@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=docker,debian,redhat,rabbitmq" alt="DevOps Skills"/>
 </div>
 <p style="text-align: justify;">
-  No campo de DevOps, utilizo ferramentas como Docker para a containerização e gerenciamento de aplicações, sistemas operacionais como Debian e Red Hat para ambientes estáveis e seguros, e RabbitMQ para gerenciamento de filas e mensagens em sistemas distribuídos.
+  In the DevOps field, I use tools such as Docker for containerization and application management, operating systems like Debian and Red Hat for stable and secure environments, and RabbitMQ for queue and message management in distributed systems.
 </p>
 
 <hr>
@@ -78,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,figma" alt="Development Tools"/>
 </div>
 <p style="text-align: justify;">
-  Para otimizar o fluxo de trabalho e o desenvolvimento, utilizo ferramentas como Visual Studio Code para edição de código, Postman para testes de APIs, Git e GitHub para controle de versão, GitHub Actions para automação de pipelines CI/CD e Figma para design e prototipagem.
+  To optimize workflow and development, I use tools such as Visual Studio Code for code editing, Postman for API testing, Git and GitHub for version control, GitHub Actions for CI/CD pipeline automation, and Figma for design and prototyping.
 </p>
 
 ---
