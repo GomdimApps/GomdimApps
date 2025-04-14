@@ -23,9 +23,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isac-gondim-dev/)
   </div>
   <div style="flex: 1 1 500px; text-align: right;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false" alt="Streak Stats"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomdimApps&show_icons=true&theme=dark" /><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomdimApps&layout=compact&theme=dark" alt="Top Languages"/><br>
+    <img width="100%" height="180" style="max-width: 495px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false" alt="Streak Stats"/><br>
+    <img width="100%" height="180" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=GomdimApps&show_icons=true&theme=dark" /><br>
+    <img width="100%" height="180" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomdimApps&layout=compact&theme=dark" alt="Top Languages"/><br>
   </div>
 </div>
 
