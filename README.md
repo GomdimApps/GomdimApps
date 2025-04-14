@@ -1,7 +1,6 @@
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+  <div style="flex: 1 1 500px; padding-right: 10px;">
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hello%2C+My+name+is+Isac+Gondim!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <p align="left">
@@ -22,16 +21,13 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isac.gondim.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isac-gondim-dev/)
-    </td>
-    <td width="50%" valign="top" align="right">
-      <div align="right">
-       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false" alt="Streak Stats"/><br>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomdimApps&show_icons=true&theme=dark" /><br>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomdimApps&layout=compact&theme=dark" alt="Top Languages"/><br>
-      </div>
-    </td>
-  </tr>
-</table>
+  </div>
+  <div style="flex: 1 1 500px; text-align: right;">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false" alt="Streak Stats"/><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomdimApps&show_icons=true&theme=dark" /><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomdimApps&layout=compact&theme=dark" alt="Top Languages"/><br>
+  </div>
+</div>
 
 ---
 
