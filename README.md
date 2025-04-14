@@ -14,29 +14,10 @@
 <p align="left">
  Brazilian [🇧🇷]
 </p>
-
-<h3 align="left">Language</h3>
-
-<div align="left">
- <img src="https://skillicons.dev/icons?i=bash,ts,js,go" /> 
-</div>
-
-<h3 align="left">DataBase</h3>
-
-<div align="left">
- <img src="https://skillicons.dev/icons?i=postgres,mysql" /> 
-</div>
-
-<h3 align="left">DevOps</h3>
-
-<div align="left">
- <img src="https://skillicons.dev/icons?i=docker,kubernetes,redhat,ubuntu,debian,rabbitmq" /> 
-</div>
-
-
+</br>
 
 <div align="center"><br>
-<h3>GitHub Stats</h3>
+<h2>GitHub Stats</h2>
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false)
 <br>
@@ -57,6 +38,73 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GomdimApps/GomdimApps/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+---
+
+<h1 align="left">Skills Development</h1>
+
+<h2 align="left">Back-End</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bash,ts,js,go,php" /> 
+</div>
+
+<h4 align="left">
+  Com foco em ambientes críticos, utilizo Golang para o desenvolvimento de aplicações voltadas para a computação em nuvem. Para aplicações web, emprego PHP ou TypeScript como tecnologias de back-end, dependendo das necessidades do projeto.
+</h4>
+
+---
+
+<h2 align="left">Framework</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nest,prisma,laravel" /> 
+</div>
+
+<h4 align="left">
+  Para desenvolvimento de aplicações robustas e eficientes, utilizo frameworks como NestJS e Prisma em projetos de alta escalabilidade, enquanto Laravel é empregado em soluções voltadas para desenvolvimento web tradicional.
+</h4>
+
+---
+
+<h2 align="left">DataBase</h2>
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=postgres,mysql" /> 
+</div>
+
+<h4 align="left">
+  Para gerenciamento de dados, utilizo bancos de dados como PostgreSQL, ideal para aplicações de alta performance e complexidade, e MySQL, amplamente utilizado em projetos web devido à sua confiabilidade e simplicidade.
+</h4>
+
+---
+
+<h2 align="left">DevOps</h2>
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=docker,debian,redhat,rabbitmq," /> 
+</div>
+
+<h4 align="left">
+  No campo de DevOps, utilizo ferramentas como Docker para a containerização e gerenciamento de aplicações, sistemas operacionais como Debian e Red Hat para ambientes estáveis e seguros, e RabbitMQ para gerenciamento de filas e mensagens em sistemas distribuídos.
+</h4>
+
+---
+
+<h2 align="left">Development tools</h2>
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,figma" /> 
+</div>
+
+<h4 align="left">
+  Para otimizar o fluxo de trabalho e o desenvolvimento, utilizo ferramentas como Visual Studio Code para edição de código, Postman para testes de APIs, Git e GitHub para controle de versão, GitHub Actions para automação de pipelines CI/CD e Figma para design e prototipagem.
+</h4>
+
+---
+
+
+
 
 ---
 
