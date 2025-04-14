@@ -3,10 +3,10 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hello%2C+My+name+is+Isac+Gondim!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left">
-  I work with Golang, Node.js, Git, Bash.<br>
-  I'm currently studying <strong>Higher Education</strong> and at the moment I'm working at MegaNuv with Cloud Computing automations.
-</p>
+<div style="text-align: justify;">
+  Sou um profissional Júnior em Back-End e DevOps, com foco no aprendizado contínuo e no aprimoramento de habilidades. Utilizo Golang, JS/TS e possuo experiência em Cloud Computing, automação de processos e gestão de ambientes Linux. Tenho conhecimentos práticos em Docker, LXC, KVM e Proxmox, além de experiência como SysAdmin. Comprometido com a homologação de sistemas e geração de resultados positivos.
+</div>
+
 <p align="left">
   💌 I'm always open to new contacts and opportunities! Don't hesitate to let me know if you have any questions, suggestions or just want to exchange ideas. I look forward to hearing from you! ⤵️
 </p>
@@ -31,65 +31,55 @@
 
 ---
 
-<h1 align="left">Skills Development</h1>
+<h1 style="text-align: left;">Skills Development</h1>
 
-<h2 align="left">Back-End</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=bash,ts,js,go,php" /> 
+<h2 style="text-align: left;">Back-End</h2>
+<div style="text-align: justify;">
+  <img src="https://skillicons.dev/icons?i=bash,ts,js,go,php" alt="Back-End Skills" /> 
 </div>
-
-<h4 align="left">
+<p style="text-align: justify;">
   Com foco em ambientes críticos, utilizo Golang para o desenvolvimento de aplicações voltadas para a computação em nuvem. Para aplicações web, emprego PHP ou TypeScript como tecnologias de back-end, dependendo das necessidades do projeto.
-</h4>
+</p>
 
----
+<hr>
 
-<h2 align="left">Framework</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nest,prisma,laravel" /> 
+<h2 style="text-align: left;">Framework</h2>
+<div style="text-align: justify;">
+  <img src="https://skillicons.dev/icons?i=nest,prisma,laravel" alt="Framework Skills" /> 
 </div>
-
-<h4 align="left">
+<p style="text-align: justify;">
   Para desenvolvimento de aplicações robustas e eficientes, utilizo frameworks como NestJS e Prisma em projetos de alta escalabilidade, enquanto Laravel é empregado em soluções voltadas para desenvolvimento web tradicional.
-</h4>
+</p>
 
----
+<hr>
 
-<h2 align="left">DataBase</h2>
-
-<div align="left">
- <img src="https://skillicons.dev/icons?i=postgres,mysql" /> 
+<h2 style="text-align: left;">DataBase</h2>
+<div style="text-align: justify;">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database Skills"/>
 </div>
-
-<h4 align="left">
+<p style="text-align: justify;">
   Para gerenciamento de dados, utilizo bancos de dados como PostgreSQL, ideal para aplicações de alta performance e complexidade, e MySQL, amplamente utilizado em projetos web devido à sua confiabilidade e simplicidade.
-</h4>
+</p>
 
----
+<hr>
 
-<h2 align="left">DevOps</h2>
-
-<div align="left">
- <img src="https://skillicons.dev/icons?i=docker,debian,redhat,rabbitmq," /> 
+<h2 style="text-align: left;">DevOps</h2>
+<div style="text-align: justify;">
+  <img src="https://skillicons.dev/icons?i=docker,debian,redhat,rabbitmq" alt="DevOps Skills"/>
 </div>
-
-<h4 align="left">
+<p style="text-align: justify;">
   No campo de DevOps, utilizo ferramentas como Docker para a containerização e gerenciamento de aplicações, sistemas operacionais como Debian e Red Hat para ambientes estáveis e seguros, e RabbitMQ para gerenciamento de filas e mensagens em sistemas distribuídos.
-</h4>
+</p>
 
----
+<hr>
 
-<h2 align="left">Development tools</h2>
-
-<div align="left">
- <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,figma" /> 
+<h2 style="text-align: left;">Development tools</h2>
+<div style="text-align: justify;">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,figma" alt="Development Tools"/>
 </div>
-
-<h4 align="left">
+<p style="text-align: justify;">
   Para otimizar o fluxo de trabalho e o desenvolvimento, utilizo ferramentas como Visual Studio Code para edição de código, Postman para testes de APIs, Git e GitHub para controle de versão, GitHub Actions para automação de pipelines CI/CD e Figma para design e prototipagem.
-</h4>
+</p>
 
 ---
 
@@ -100,12 +90,4 @@
 </picture>
 <br><br>
 
----
 
-<div align="center">
-  <h1><b>📍 A little about me</b></h3>
-</div>
-
-<p style="text-align: justify;">
-I'm passionate about technology and have always tried to create innovative solutions. I developed the Lia app for visually impaired students and co-created the RederWa ChatBot. As a Back-End Developer at MegaNuv, I specialize in system automation and homologation with JavaScript, SQL, Golang, shell and Python. I have experience in web development, cloud computing, managing virtual machines with Proxmox, configuring Linux environments and installing Windows systems. I'm currently learning about networking with MikroTik software and I'm looking for new technological challenges.
-</p>
