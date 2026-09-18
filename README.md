@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hello%2C+My+name+is+Isac+Gondim!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <div style="text-align: justify;">
-  I'm a Junior Back-End and DevOps professional, focused on continuous learning and skill enhancement. I work with Golang, JS/TS and have experience in Cloud Computing, process automation, and Linux environment management. I possess practical knowledge in Docker, LXC, KVM, and Proxmox, as well as experience as a SysAdmin. I'm committed to system validation and delivering positive results.
+  Mid-Level Full Stack & DevOps Developer focused on automation and efficiency. Proficient in system development with Golang, PHP (Laravel), and Vue.js (JS/TS). Hands-on experience in DevOps and SysAdmin, working with Docker, Cloud Computing, Linux environments, and virtualization via Proxmox (LXC/KVM). Specialized in automating CI/CD pipelines and system validation, ensuring fast and secure deliveries for business growth.
 </div>
 
 <p align="left">
@@ -19,14 +19,13 @@
 </p>
 </br>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isac.gondim.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isac-gondim-dev/)
-  </div>
-  <div style="flex: 1 1 500px; text-align: right;">
-    <img width="100%" height="180" style="max-width: 495px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false" alt="Streak Stats"/><br>
-    <img width="100%" height="180" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api?username=GomdimApps&show_icons=true&theme=dark" /><br>
-    <img width="100%" height="180" style="max-width: 495px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomdimApps&layout=compact&theme=dark" alt="Top Languages"/><br>
-  </div>
+<div align="center">
+  <a href="https://commit-history.com/GomdimApps">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/GomdimApps?theme=dark" />
+      <img alt="GomdimApps's commit history" src="https://commit-history.com/embed/GomdimApps" />
+    </picture>
+  </a>
 </div>
 
 ---
@@ -35,20 +34,30 @@
 
 <h2 style="text-align: left;">Back-End</h2>
 <div style="text-align: justify;">
-  <img src="https://skillicons.dev/icons?i=bash,ts,js,go,php" alt="Back-End Skills" /> 
+  <img src="https://skillicons.dev/icons?i=bash,ts,go,php,py" alt="Back-End Skills" /> 
 </div>
 <p style="text-align: justify;">
-  With a focus on critical environments, I use Golang for developing cloud computing applications. For web applications, I employ PHP or TypeScript as back-end technologies, depending on project requirements.
+  With a focus on critical environments, I use Golang for developing cloud computing applications. For web applications and backend services, I employ Python, PHP, or TypeScript, depending on project requirements.
+</p>
+
+<hr>
+
+<h2 style="text-align: left;">Front-End</h2>
+<div style="text-align: justify;">
+  <img src="https://skillicons.dev/icons?i=vue,react,html" alt="Front-End Skills" /> 
+</div>
+<p style="text-align: justify;">
+  For modern and responsive interfaces, I build dynamic web applications using Vue.js and React, as well as server-rendered views with Laravel Blade templates.
 </p>
 
 <hr>
 
 <h2 style="text-align: left;">Framework</h2>
 <div style="text-align: justify;">
-  <img src="https://skillicons.dev/icons?i=nest,prisma,laravel" alt="Framework Skills" /> 
+  <img src="https://skillicons.dev/icons?i=nest,prisma,laravel,react" alt="Framework Skills" /> 
 </div>
 <p style="text-align: justify;">
-  For developing robust and efficient applications, I use frameworks like NestJS and Prisma for highly scalable projects, while Laravel is employed for traditional web development solutions.
+  For developing robust and efficient applications, I use frameworks like NestJS and Prisma for highly scalable projects, Laravel for web solutions, and React Native for mobile applications.
 </p>
 
 <hr>
@@ -75,10 +84,10 @@
 
 <h2 style="text-align: left;">Development tools</h2>
 <div style="text-align: justify;">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,figma" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,figma,firebase" alt="Development Tools"/>
 </div>
 <p style="text-align: justify;">
-  To optimize workflow and development, I use tools such as Visual Studio Code for code editing, Postman for API testing, Git and GitHub for version control, GitHub Actions for CI/CD pipeline automation, and Figma for design and prototyping.
+  To optimize workflow and development, I use tools such as Visual Studio Code for code editing, Postman for API testing, Git and GitHub for version control, GitHub Actions for CI/CD pipeline automation, Firebase for backend services, and Figma for design and prototyping.
 </p>
 
 ---
